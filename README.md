@@ -6,7 +6,7 @@ The **Academic CLI System** is a command-line tool designed to manage a simple a
 ---
 
 ### 📽️ Video Presentation  
-[Watch the Demo Here](https://your-video-link.com)  
+[Watch the Demo Here](https://drive.google.com/file/d/1bCSBE95HdDk3dfNoSrR3Hjy27AA5pvG7/view?usp=sharing)  
 
 ---
 
